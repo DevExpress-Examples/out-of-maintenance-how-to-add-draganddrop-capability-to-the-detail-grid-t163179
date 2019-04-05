@@ -3,7 +3,7 @@
 
 * [CustomGridDragAndDrop.cs](./CS/DragAndDropExample/Behavior/CustomGridDragAndDrop.cs) (VB: [CustomGridDragAndDrop.vb](./VB/DragAndDropExample/Behavior/CustomGridDragAndDrop.vb))
 * [MainWindow.xaml](./CS/DragAndDropExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DragAndDropExample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DragAndDropExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DragAndDropExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DragAndDropExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DragAndDropExample/MainWindow.xaml.vb))
 * [TaskViewModel.cs](./CS/DragAndDropExample/ViewModel/TaskViewModel.cs) (VB: [TaskViewModel.vb](./VB/DragAndDropExample/ViewModel/TaskViewModel.vb))
 <!-- default file list end -->
 # How to add DragAndDrop capability to the detail grid
